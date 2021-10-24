@@ -1,5 +1,4 @@
-### Hi there 👋 <img align="bottom" height="30px" width="30px" src="https://github.com/dikirahman/dikirahman/blob/main/profile.svg?raw=true">
-
+### <img align="bottom" height="30px" width="30px" src="https://github.com/dikirahman/dikirahman/blob/main/profile.svg?raw=true"> Hi there 👋
 <!--
 **dikirahman/dikirahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
